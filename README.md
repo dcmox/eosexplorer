@@ -1,4 +1,4 @@
-This project was designed for the EOS Developer test by Daniel Moxon.
+This project was designed by Daniel Moxon.
 
 ## Available Scripts
 
