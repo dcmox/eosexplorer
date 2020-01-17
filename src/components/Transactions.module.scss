@@ -1,0 +1,9 @@
+.transactions {
+    tbody:nth-child(odd) tr:first-child{
+        background-color: #222;
+    }
+
+    tbody:nth-child(even) tr:first-child{
+        background-color: transparent;
+    }
+}

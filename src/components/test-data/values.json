@@ -1,0 +1,8 @@
+{
+    "noEndpoint": "",
+    "endpoint": "https://api.eosnewyork.io",
+    "loadingMessageNoEndpoint": "No endpoint specified!",
+    "loadingMessageWithEndpoint": "Fetching blocks from EOS blockchain...",
+    "buttonLoading": "Loading...",
+    "fetchAmount": 20
+  }

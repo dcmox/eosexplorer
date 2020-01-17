@@ -1,0 +1,38 @@
+.ricardianContract{ 
+    font-size:16px;
+    margin-bottom:10px;
+    padding-bottom:10px;
+    border-bottom:1px dashed #777;
+    line-height: 35px;
+
+    div:first-child::first-line{
+        font-size: 21px;
+        font-weight: 300;
+        color: dodgerblue;
+    }
+    div{
+        display: inline-block;
+        font-style: italic;
+        padding-right: 1px;
+    }
+
+    h2{
+        font-size:16px;
+        font-weight: normal;
+    }
+}
+
+.invalidContract{
+    display: block;
+    unicode-bidi: embed;
+    font-style: normal !important;
+    line-height: 20px;
+    font-size: 13px;
+    max-width: 950px;
+    overflow: hidden;
+}
+
+.ricardianContract > div {
+    display: block;
+    font-style: normal;
+}
